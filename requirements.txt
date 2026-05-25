@@ -1,0 +1,14 @@
+Python - Main programming language
+Jupyter - Run Notebook files
+Pandas - Data manipulation library
+NumPy - Primary library for numerical computations
+Scikit-learn - Machine learning library
+Lightgbm - Primary Classifier Gradient boosting framework
+Xgboost - Comparison Gradient boosting framework
+Matplotlib - Data visualization library
+Seaborn - Statistical data visualization library
+Imbalanced-learn - Smote Library for handling imbalanced datasets
+Shap - Interpretable machine learning library
+Optuna - Hyperparameter optimization framework
+Plotly - Data visualization library
+Streamlit - Creating web apps for data science applications
